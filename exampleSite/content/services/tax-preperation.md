@@ -1,46 +1,8 @@
 ---
-title: "Tax Preperation"
-date: 2018-11-18T12:33:46+10:00
-draft: false
+title: 认知科学
+date: 2018-11-18T12:33:46.000+10:00
 featured: true
-weight: 6
+weight: "6"
+
 ---
-
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
-
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
-
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
-
-## Patulis Veneris est expulit adversaque magnum mediaque
-
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+**認知科學**（英語：Cognitive Science），是一門研究[訊息](https://zh.wikipedia.org/wiki/%E8%A8%8A%E6%81%AF "訊息")如何在大腦中形成以及轉錄過程的[跨領域學科](https://zh.wikipedia.org/wiki/%E8%B7%A8%E9%A0%98%E5%9F%9F%E5%AD%B8%E7%A7%91 "跨領域學科")。它研究何为[认知](https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5 "认知")，认知有何用途以及它如何工作，研究信息如何表现为[感觉](https://zh.wikipedia.org/wiki/%E6%84%9F%E8%A6%BA "感覺")、[语言](https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80 "语言")、[注意](https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F "注意")、[推理](https://zh.wikipedia.org/wiki/%E6%8E%A8%E7%90%86 "推理")和[情感](https://zh.wikipedia.org/wiki/%E6%83%85%E6%84%9F "情感")。其研究領域包括[心理學](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%B8 "心理學")、[哲學](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%B8 "哲學")、[人工智能](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD "人工智能")、[神經科學](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8 "神經科學")、[學習](https://zh.wikipedia.org/wiki/%E5%AD%B8%E7%BF%92 "學習")、[語言學](https://zh.wikipedia.org/wiki/%E8%AA%9E%E8%A8%80%E5%AD%B8 "語言學")、[人類學](https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E5%AD%B8 "人類學")、[社會學](https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E5%AD%B8 "社會學")和[教育學](https://zh.wikipedia.org/wiki/%E6%95%99%E8%82%B2%E5%AD%B8 "教育學")。[\[1\]](https://zh.wikipedia.org/wiki/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6#cite_note-1)它跨越相當多層次的[分析](https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90 "分析")，從低層次的[學習](https://zh.wikipedia.org/wiki/%E5%AD%B8%E7%BF%92 "學習")和[決策](https://zh.wikipedia.org/wiki/%E6%B1%BA%E7%AD%96 "決策")機制，到高層次的[邏輯](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF "邏輯")和策劃能力，以及腦部[神經](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93 "神經")[電路](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%B7%AF "電路")。「認知科學」這個詞是[克里斯多福·龍格-希金斯](https://zh.wikipedia.org/w/index.php?title=%E5%85%8B%E9%87%8C%E6%96%AF%E5%A4%9A%E7%A6%8F%C2%B7%E9%BE%8D%E6%A0%BC-%E5%B8%8C%E9%87%91%E6%96%AF&action=edit&redlink=1)在1973年評注一部關於當時人工智慧最新研究的著作[萊特希爾報告](https://zh.wikipedia.org/w/index.php?title=%E8%90%8A%E7%89%B9%E5%B8%8C%E7%88%BE%E5%A0%B1%E5%91%8A&action=edit&redlink=1)時創造的。同10年內，《認知科學期刊》和[認知科學學會](https://zh.wikipedia.org/w/index.php?title=%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%B8%E5%AD%B8%E6%9C%83&action=edit&redlink=1)相繼於美國加州成立。认知科学的基本要义是：理解[思维](https://zh.wikipedia.org/wiki/%E6%80%9D%E7%BB%B4 "思维")的最好途径，是认识脑中的代表性结构，以及这些结构中发生的[计算](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97 "计算")性过程。
