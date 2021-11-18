@@ -4,12 +4,12 @@ theme = "hugo-serif-theme"
 themesDir = "../.."
 title = "Hugo Serif Theme"
 [[menu.footer]]
-name = "Contact"
+name = "联系我们"
 url = "/contact/"
 weight = 2
 [[menu.footer]]
-name = "Home"
-url = "/"
+name = "友情单位"
+url = "https://www.cmu.edu/ini/admissions/request-form.html?utm_source=google&utm_medium=ad&utm_campaign=lead_form_submission&utm_id=lfs&gclid=EAIaIQobChMIjZ3Bmqeh9AIVQbaWCh0QFAf9EAAYASAAEgJHYPD_BwE"
 weight = 1
 [[menu.main]]
 name = "联系方式"
