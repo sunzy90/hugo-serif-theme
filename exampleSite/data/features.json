@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "哲学研究",
+    "description": "从事哲学前沿的研究.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "哲学教育",
+    "description": "提供广泛深入的哲学教育.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "哲学普及",
+    "description": "向大众普及哲学知识",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
