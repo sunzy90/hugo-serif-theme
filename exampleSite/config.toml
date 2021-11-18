@@ -45,7 +45,7 @@ desktop_height = "36px"
 mobile = "images/logo/logo-mobile.svg"
 mobile_height = "36px"
 [params.seo]
-meta_twitter_creator = "@zerostaticio"
-meta_twitter_site = "@zerostaticio"
+meta_twitter_creator = "@trump"
+meta_twitter_site = "@trump"
 [params.team]
 summary_large_truncate = 120
