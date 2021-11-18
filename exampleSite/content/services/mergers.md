@@ -1,53 +1,8 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: 生物哲学
+date: 2018-11-28T15:15:34.000+10:00
 featured: true
-draft: false
-weight: 4
+weight: "4"
+
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+**生物哲学**是[科学哲学](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6 "科学哲学")的一类，其中涉及到[认识论](https://zh.wikipedia.org/wiki/%E8%AE%A4%E8%AF%86%E8%AE%BA "认识论")、[形而上学](https://zh.wikipedia.org/wiki/%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6 "形而上学")和[伦理](https://zh.wikipedia.org/wiki/%E4%BC%A6%E7%90%86 "伦理")问题。虽然大部分科学哲学家和哲学家一直对生物学感兴趣（例如[亚里士多德](https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7 "亚里士多德")、[笛卡尔](https://zh.wikipedia.org/wiki/%E7%AC%9B%E5%8D%A1%E5%B0%94 "笛卡尔")，甚至[康德](https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%BE%B7 "康德")），生物学哲学在20世纪的60和70年代时才成为了一个独立的哲学领域。之后，科学哲学家开始更加重视[生物学](https://zh.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E5%AD%A6 "生物学")，从[新达尔文主义](https://zh.wikipedia.org/wiki/%E6%96%B0%E9%81%94%E7%88%BE%E6%96%87%E4%B8%BB%E7%BE%A9 "新達爾文主義")在20世纪30和40年代的兴起到1953年[去氧核糖核酸](https://zh.wikipedia.org/wiki/%E5%8E%BB%E6%B0%A7%E6%A0%B8%E7%B3%96%E6%A0%B8%E9%85%B8 "去氧核糖核酸")结构的发现，加上[基因工程](https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B "基因工程")的最新进展。把所有的生命过程缩减成[生化反应](https://zh.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%8F%8D%E6%87%89 "生化反應")，和把心理学纳入更广泛的[神经科学](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6 "神经科学")的想法也属于生物哲学的领域里。
