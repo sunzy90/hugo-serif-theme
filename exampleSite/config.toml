@@ -20,7 +20,7 @@ name = "About"
 url = "/about/"
 weight = 3
 [[menu.main]]
-name = "Team"
+name = "师资力量"
 url = "/team/"
 weight = 2
 [[menu.main]]
