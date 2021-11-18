@@ -2,7 +2,7 @@ baseURL = "www.example.com"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
-title = "Hugo Serif Theme"
+title = "我们的征途是星辰大海"
 [[menu.footer]]
 name = "联系我们"
 url = "/contact/"
