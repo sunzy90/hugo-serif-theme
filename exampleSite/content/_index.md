@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 ---
 # 中科院哲学所
 
-中科院哲学所致力于
+中科院哲学所致力跨学科的哲学研究
